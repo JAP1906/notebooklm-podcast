@@ -1,4 +1,6 @@
 name: Build podcast feed
+permissions:
+  contents: write
 
 on:
   schedule:
