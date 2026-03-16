@@ -27,10 +27,9 @@ jobs:
         run: python build_feed.py
       
       - name: Commit RSS
-  run: |
-    git config --global user.name "bot"
-    git config --global user.email "bot@github.com"
-    git add podcast.xml
-    git commit -m "update feed" || echo "no changes"
-    git pull --rebase origin main
-    git push origin main
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add podcast.xml
+          git commit -m "update feed" || echo "no changes"
+          git push
