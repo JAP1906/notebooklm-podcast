@@ -2,9 +2,20 @@
 <rss version="2.0">
 <channel>
 
-<title>NotebookLM Audio</title>
+<title>JAP | Podcast | NotebookLM</title>
 <description>Audios gerados no NotebookLM</description>
-<link>https://github.com/TEU_USERNAME/notebooklm-podcast</link>
+<link>https://github.com/JAP1906/notebooklm-podcast</link>
+
+<item>
+<title>20250818 - Decisão 🇫🇷 Cloudflare</title>
+<description>
+1. O Tribunal de Justiça de Paris determinou que a Cloudflare deve implementar medidas de bloqueio contra 16 domínios e serviços de IPTV que transmitem ilegalmente jogos da Premier League, protegendo os direitos exclusivos do Grupo Canal+
+2.A sentença reconhece a Cloudflare como um intermediário técnico (DNS, CDN e proxy reverso) com capacidade para impedir o acesso a conteúdos infratores, rejeitando os argumentos de inadmissibilidade da empresa
+3.As medidas de bloqueio aplicam-se ao território francês até 24 de maio de 2026, prevendo-se ainda a colaboração com a ARCOM para identificar e bloquear novos serviços que surjam durante a temporada
+</description>
+<enclosure url="https://drive.google.com/uc?export=download&id=1E56JS_Cab0LVh41GLW_DiV-uNFx7O_Db" length="0" type="audio/mp4"/>
+<guid>jappodcast-01</guid>
+</item>
 
 </channel>
 </rss>
