@@ -1,0 +1,35 @@
+name: Build podcast feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install google-api-python-client google-auth
+
+      - name: Write credentials
+        run: echo '${{ secrets.GOOGLE_SERVICE_ACCOUNT }}' > creds.json
+
+      - name: Generate RSS
+        run: python build_feed.py
+
+      - name: Commit RSS
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add podcast.xml
+          git commit -m "update feed" || echo no changes
+          git push
