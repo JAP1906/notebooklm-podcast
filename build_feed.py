@@ -3,7 +3,7 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
-FOLDER_ID = "ID_DA_PASTA_EPISODES"
+FOLDER_ID = "1It7ZHkkL-mo_wcbAmuqhjSQbUmEkscoi"
 
 creds = service_account.Credentials.from_service_account_file(
     "creds.json", scopes=SCOPES)
