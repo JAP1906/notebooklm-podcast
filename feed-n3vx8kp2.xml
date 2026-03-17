@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>NotebookLM2Overcast</title>
+<description>Audios NotebookLM</description>
+<link>https://github.com/JAP1906/notebooklm-podcast</link>
+<language>pt-pt</language>
+<itunes:author>JAP</itunes:author>
+<itunes:category text="Technology"/>
+
+<item>
+<title>20260218 - Decisao Cloudflare</title>
+<description>1. O Tribunal de Justica de Paris determinou que a Cloudflare deve implementar medidas de bloqueio contra 16 dominios e servicos de IPTV que transmitem ilegalmente jogos da Premier League, protegendo os direitos exclusivos de exploracao do Grupo Canal+</description>
+<enclosure url="https://drive.usercontent.google.com/download?id=10qdmjnQUCC6AkziR-nRef22a5fI4ypaY&amp;export=download" length="33706630" type="audio/mpeg"/>
+<guid isPermaLink="false">episode1</guid>
+<pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+<itunes:title>20260218 - Decisao Cloudflare</itunes:title>
+<itunes:duration>0</itunes:duration>
+</item>
+
+</channel>
+</rss>
