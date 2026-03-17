@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>NotebookLM2Overcast</title>
-<description>Audios NotebookLM</description>
-<link>https://github.com/JAP1906/notebooklm-podcast</link>
+  <title>NotebookLM2Overcast</title>
+  <description>Audios NotebookLM</description>
+  <link>https://github.com/JAP1906/delta-7f4k2</link>
+  <language>pt-pt</language>
+  <itunes:author>JAP</itunes:author>
 
 <item>
-<title></title>
-<description>Esta proposta de lei assegura a execução do Regulamento (UE) 2022/2065 no ordenamento jurídico interno, estabelecendo os deveres dos prestadores de serviços intermediários e as normas para a criação de um mercado único de serviços digitais. O documento designa a ￼￼Autoridade Nacional de Comunicações como Coordenador dos Serviços Digitais e define um regime detalhado de fiscalização e sanções para garantir o combate a conteúdos ilegais e a proteção dos destinatários.</description>
-<enclosure url="https://drive.usercontent.google.com/download?id=1rMKyYGugGlevhLqFEFCWlOOgrolC7Fiv&amp;export=download" length="0" type="audio/mp4"/>
-<guid>episode2</guid>
+  <title>Proposta de Lei 25/XVII</title>
+  <description>Esta proposta de lei assegura a execução do Regulamento (UE) 2022/2065 no ordenamento jurídico interno, estabelecendo os deveres dos prestadores de serviços intermediários e as normas para a criação de um mercado único de serviços digitais. O documento designa a ￼￼Autoridade Nacional de Comunicações como Coordenador dos Serviços Digitais e define um regime detalhado de fiscalização e sanções para garantir o combate a conteúdos ilegais e a proteção dos destinatários.</description>
+  <enclosure url="https://drive.usercontent.google.com/download?id=1rMKyYGugGlevhLqFEFCWlOOgrolC7Fiv&amp;export=download" length="0" type="audio/mp4"/>
+  <guid isPermaLink="false">episode2</guid>
+  <pubDate>Tue, 17 Mar 2026 02:15:38 +0000</pubDate>
 </item>
 
 <item>
-<title>20260218 - Decisão 🇫🇷 Cloudflare</title>
-<description>1. O Tribunal de Justiça de Paris determinou que a Cloudflare deve implementar medidas de bloqueio contra 16 domínios e serviços de IPTV que transmitem ilegalmente jogos da Premier League, protegendo os direitos exclusivos de exploração do Grupo Canal+
+  <title>20260218 - Decisão 🇫🇷 Cloudflare</title>
+  <description>1. O Tribunal de Justiça de Paris determinou que a Cloudflare deve implementar medidas de bloqueio contra 16 domínios e serviços de IPTV que transmitem ilegalmente jogos da Premier League, protegendo os direitos exclusivos de exploração do Grupo Canal+
 2. A sentença classifica a Cloudflare como um intermediário técnico (fornecedor de DNS, CDN e proxy reverso) com capacidade para impedir o acesso a conteúdos infratores, rejeitando os argumentos de defesa da empresa sobre a sua suposta falta de legitimidade passiva
 3. Estas medidas de bloqueio aplicam-se ao território francês até 24 de maio de 2026, prevendo-se ainda a colaboração com a ARCOM para identificar e bloquear novos serviços que venham a surgir ilegalmente durante o resto da temporada</description>
-<enclosure url="https://drive.usercontent.google.com/download?id=10qdmjnQUCC6AkziR-nRef22a5fI4ypaY&amp;export=download" length="0" type="audio/mp4"/>
-<guid>episode1</guid>
+  <enclosure url="https://drive.usercontent.google.com/download?id=10qdmjnQUCC6AkziR-nRef22a5fI4ypaY&amp;export=download" length="0" type="audio/mp4"/>
+  <guid isPermaLink="false">episode1</guid>
+  <pubDate>Mon, 16 Mar 2026 18:08:43 +0000</pubDate>
 </item>
-
 </channel>
 </rss>
