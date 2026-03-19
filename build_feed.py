@@ -33,7 +33,7 @@ items = []
 
 for k,v in episodes.items():
     if "audio" in v and "meta" in v:
-        meta = service.files().get_media(fileId=v["meta"]).execute().decode("utf-8")
+        meta = service.files().get_media(fileId=v["meta"]).execute().decode("utf-8", errors="replace")
 
         lines = [l.strip() for l in meta.splitlines()]
         all_lines = lines[:]
