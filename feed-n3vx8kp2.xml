@@ -16,6 +16,14 @@
 </item>
 
 <item>
+  <title>20250316 - Resposta da Cloudflare à multa de 14M€ da AGCOM</title>
+  <description>Italy’s "Piracy Shield" was designed to stop pirated live sports streams in 30 minutes, but Cloudflare says the "black box" system also puts the open Internet at risk. The American company was fined €14 million by Italian regulator AGCOM in january, for refusing to filter through its 1.1.1.1 DNS resolver. This week, Cloudflare announced that it formally appealed the fine while it continues to challenge the legality of the Piracy Shield system.</description>
+  <enclosure url="https://drive.usercontent.google.com/download?id=1yX-gAGZQky2gW--WKDW90TLV-QBpSS_p&amp;export=download" length="0" type="audio/mp4"/>
+  <guid isPermaLink="false">episode3</guid>
+  <pubDate>Thu, 19 Mar 2026 09:51:08 +0000</pubDate>
+</item>
+
+<item>
   <title>20260218 - Decisão 🇫🇷 Cloudflare</title>
   <description>1. O Tribunal de Justiça de Paris determinou que a Cloudflare deve implementar medidas de bloqueio contra 16 domínios e serviços de IPTV que transmitem ilegalmente jogos da Premier League, protegendo os direitos exclusivos de exploração do Grupo Canal+
 2. A sentença classifica a Cloudflare como um intermediário técnico (fornecedor de DNS, CDN e proxy reverso) com capacidade para impedir o acesso a conteúdos infratores, rejeitando os argumentos de defesa da empresa sobre a sua suposta falta de legitimidade passiva
